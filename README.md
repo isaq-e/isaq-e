@@ -1,7 +1,6 @@
 <h1 align="center">Hello everyone 👋, I'm Isaque Marcolino</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![edit] (https://camo.githubusercontent.com/59c5366d36d2d6ee99f039bf3066e526861d04879b7e14410e34c8592e32e657/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3834313837393033383336383934303036322e6769663f763d31.gif)
 <a href="https://twitter.com/isaq_marcolino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaq.marcolino" height="30" width="40"/></a>
 <a href="https://fb.com/isaque.marcolino.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isaque marcolino" height="30" width="40" /></a>
 <a href="https://instagram.com/marcolino_isaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcolino.isaque" height="30" width="40" /></a>
