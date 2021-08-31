@@ -1,4 +1,7 @@
 <h1 align="center">Hello everyone 👋, I'm Isaque Marcolino</h1>
+
+<img align="right" alt="GIF" src="https://github.com/isaq-e/isaqueee/blob/main/README.md?raw=true" width="500" height="320"/> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isaq_marcolino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaq.marcolino" height="30" width="40"/></a>
