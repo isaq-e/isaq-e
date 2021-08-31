@@ -41,9 +41,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=isaq-e&theme=vue)](https://github.com/isaq-e/github-readme-stats)
 
-
-
-
+É os guriii!! <br>
+<img align="left" alt="GIF" src="https://github.com/isaq-e/isaqueee/blob/main/nutsa-dianho.gif?raw=true" width="150" height="150" />
 
 
 
