@@ -4,7 +4,7 @@
 
 ## I'm a Brother, Son, Student, Gamer, and an Administrative Assistant!!
 
-- ✍🏻 You can find my studies projects right here <a href='https://isaquem.46graus.com'>portfolio</a>
+- ✍🏻 You can find my studies projects here <a href='https://isaquem.46graus.com'>portfolio</a>
 - 👀 I’m really interested in discover the world.
 - 👨🏼‍💻 I’m currently learning all programming languages.
 - 🌍 I’m looking to collaborate on your life.
